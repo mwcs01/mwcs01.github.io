@@ -2,7 +2,7 @@
     "title": "Whimsical Swift Syntax",
     "subtitle": "A Collection of Swift Lessons",
     "publisherName": "Company Name Inc.",
-    "feedIdentifier": "com.example.whimsicalswift",
+    "feedIdentifier": "io.github.mwcs01",
     "contactURL": "https://support.example.com",
     "formatVersion": "1.0",
     "documents": [
@@ -16,8 +16,8 @@
             "url": "test/MWCSTest.playgroundbook.zip",
             "publishedDate": "2018-07-18T21:13:57+00:00",
             "lastUpdatedDate": "2018-07-18T21:13:57+00:00",
-            "thumbnailURL": "test/thumbnail.png",
-            "bannerImageURL": "test/banner.png",
+            "thumbnailURL": "test/Icon-76.png",
+            "bannerImageURL": "test/Icon-76.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
@@ -25,7 +25,7 @@
                 }
             ],
             "previewImageURLs": [
-                "test/preview-1.png"
+                "test/Icon-76.png"
             ]
         }
     ]
